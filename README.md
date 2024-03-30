@@ -23,5 +23,5 @@ try:
     if n1<=0 and n1 >12:
         print("Invalid month")
 except:
-    print(":")
+    print(":we are out of the box Wow!")
 """
